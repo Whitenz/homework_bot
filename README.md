@@ -1,2 +1,4 @@
-# homework_bot
-python telegram bot
+# Python homework_bot
+
+Telegram-бот для работы с API сервиса Яндекс.Практикум.
+Узнаёт статус вашей домашней работы с заданным интервалом и отправляет его Telegram-чат.
