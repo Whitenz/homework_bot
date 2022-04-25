@@ -13,19 +13,7 @@ class StatusCodeError(Exception):
     pass
 
 
-class ResponseNotDictError(Exception):
-    """Исключение поднимается, если ответ API не преобразуется к словарю."""
-
-    pass
-
-
 class EmptyResponseError(Exception):
     """Исключение поднимается, если response содержит пустой словарь."""
-
-    pass
-
-
-class HomeworkIsNotListError(Exception):
-    """Исключение поднимается, если homework не является списком."""
 
     pass
