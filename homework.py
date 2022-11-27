@@ -5,7 +5,6 @@ Telegram-бот для работы с API сервиса Яндекс.Прак�
  его в Ваш заданный Telegram-чат.
 """
 
-import logging
 import logging.config
 import os
 import sys
